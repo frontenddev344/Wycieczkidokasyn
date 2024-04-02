@@ -481,7 +481,7 @@ nav.sticky {
 .terms__section {
     position: relative;
     height: 400px;
-    background-image: url(../image/privacybanner.jpg);
+    background-image: url(../image/termsbanner.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -529,5 +529,8 @@ nav.sticky {
     color: var(main-color);
     width: 80%;
     transform: translate(-50%, -50%);
+}
+.terms_conditons ul li {
+    list-style-type: disc;
 }
 /* terms styling end */
