@@ -84,6 +84,12 @@
     .insp_section {
         padding: 40px 0;
     }
+    h2 {
+        font-size: 28px;
+    }
+    .culture_section {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width: 575px) {
