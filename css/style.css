@@ -223,7 +223,7 @@ nav.sticky {
 .best_text {
     text-align: center;
     padding: 10px;
-    box-shadow: 2px 4px 6px #c5aeae8a;
+    box-shadow: 2px 4px 6px #00000042;
 }
 .best_top {
     margin-bottom: 40px;
@@ -235,6 +235,13 @@ nav.sticky {
 .best_inner p {
     text-align: left;
     margin-bottom: 10px;
+}
+.best_inner.bottom {
+    margin: 20px 0;
+}
+.best_inner.bottom h2 {
+    text-align: left;
+    padding: 0;
 }
 /* best casino styling end */
 /* insipration styling start */
