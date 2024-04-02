@@ -191,6 +191,12 @@ nav.sticky {
     padding: 80px 0;
 }
 
+.detail-box img {
+    height: 600px;
+    object-fit: cover;
+    margin-top: 10px;
+}
+
 .detail-box h2 {
     padding-bottom: 20px;
 }
