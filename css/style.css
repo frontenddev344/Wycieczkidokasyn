@@ -379,9 +379,9 @@ nav.sticky {
 }
 
 .social_profile ul li a:hover {
-    background: #fff;
-    border: 2px solid var(--main-color);
-    color: var(--main-color);
+    background:transparent;
+    border: 2px solid #fff;
+    color: #fff;
 }
 
 /*END SOCIAL PROFILE CSS*/
