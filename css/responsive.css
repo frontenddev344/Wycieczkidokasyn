@@ -93,6 +93,15 @@
     .experience_section {
         padding: 40px 0;
     }
+    .austraila_section {
+        padding: 40px 0;
+    }
+    .austraila_section p {
+        margin-bottom: 20px;
+    }
+    .bottom_text {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width: 575px) {
