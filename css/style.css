@@ -730,8 +730,8 @@ background: #f4f1f1;
 .exp {
     text-align: center;
     border: 1px solid var(--secondary-color);
-    background: var(--secondary-color);
-    height: 100%;
+    background: var(--primary-color);
+    height: 350px;
     padding: 10px;
 }
 
@@ -765,10 +765,12 @@ background: #f4f1f1;
 .exp_inner p {
     text-align: center;
     padding: 10px 0;
+    color: var(--main-color);
 }
 
 .exp_inner h3 {
     margin-top: 10px;
+    color: var(--main-color);
 }
 
 /* experience styling end */
