@@ -614,3 +614,22 @@ input.form-control.sub_btn:hover {
     z-index: 0;
 }
 /* QA styling end */
+/* below banner styling start */
+.below_banner {
+    padding: 80px 0px;
+    background-color: var(--secondary-color);
+}
+
+.below_text {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.below_text h2 {
+    text-align: left;
+}
+
+/* below banner styling end */
