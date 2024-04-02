@@ -292,6 +292,7 @@ nav.sticky {
     text-transform: uppercase;
     font-size: 20px;
 }
+
 .self_footer p {
     color: #fff;
     text-transform: uppercase;
@@ -381,7 +382,7 @@ nav.sticky {
 }
 
 .social_profile ul li a:hover {
-    background:transparent;
+    background: transparent;
     border: 2px solid #fff;
     color: #fff;
 }
@@ -394,6 +395,10 @@ nav.sticky {
     font-size: 15px;
     border-top: 1px solid var(--main-color);
     text-align: center;
+}
+
+.copyright_section {
+    background: var(--primary-color);
 }
 
 .copyright a {
