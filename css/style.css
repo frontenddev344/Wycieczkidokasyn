@@ -276,7 +276,9 @@ nav.sticky {
 
 .footer {
     padding: 40px 0;
-    background: var(--primary-color);
+    background-image: url(../image/footerbg.png);
+    background-position: center;
+    background-size: cover;
 }
 
 /*END FOOTER SOCIAL DESIGN*/
