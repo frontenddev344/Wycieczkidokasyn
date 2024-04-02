@@ -184,9 +184,30 @@ nav.sticky {
     height: 100%;
     z-index: 0;
 }
+
 /* casinoresort banner styling end */
 /* casino text styling start */
 .casino_text {
+    padding: 80px 0;
+    background-image: url(../img/hoteldetail.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    isolation: isolate;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.casino_text {
+    position: absolute;
+    content: '';
+    background: #000000a8;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
     padding: 80px 0;
 }
 
@@ -199,9 +220,11 @@ nav.sticky {
 .best_casino {
     padding: 80px 0;
 }
+
 .best_casino p {
-   text-align: center;
+    text-align: center;
 }
+
 /* best casino styling end */
 /* insipration styling start */
 .inspiration_banner {
@@ -221,6 +244,7 @@ nav.sticky {
     height: 100%;
     z-index: 0;
 }
+
 .insp_section {
     padding: 80px 0;
 }
@@ -259,6 +283,7 @@ nav.sticky {
 .row.detail_row {
     justify-content: center;
 }
+
 /* inspiration styling end */
 
 /* footer styling */
