@@ -118,10 +118,13 @@ nav {
     font-weight: 700;
     text-transform: capitalize;
     color: #000000;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
     width: 100%;
     transition: 0.3s;
 }
-
  
 nav.sticky {
     background: var(--primary-color);
@@ -173,7 +176,7 @@ nav.sticky {
 /* casino banner styling end */
 /* casinoresort banner styling start */
 .casinoresort_banner {
-    height: 500px;
+    height: 400px;
     background-image: url(../image/casinoresortbanner.webp);
     background-size: cover;
     background-position: center;
@@ -226,7 +229,7 @@ nav.sticky {
 /* best casino styling end */
 /* insipration styling start */
 .inspiration_banner {
-    height: 500px;
+    height: 400px;
     background-image: url(../image/casinoresortbanner.webp);
     background-size: cover;
     background-position: center;
