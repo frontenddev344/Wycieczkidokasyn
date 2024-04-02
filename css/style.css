@@ -236,10 +236,10 @@ nav.sticky {
     text-align: left;
     margin-bottom: 10px;
 }
-.best_inner.bottom {
+.best_inner {
     margin: 20px 0;
 }
-.best_inner.bottom h2 {
+.best_inner  h2 {
     text-align: left;
     padding: 0;
 }
