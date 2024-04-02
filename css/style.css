@@ -775,7 +775,7 @@ background: #f4f1f1;
 /* experience styling end */
 /* hawaii styling start */
 
-.luxhotel_card {
+.hawaii {
 	margin-bottom: 30px;
 	transition: all 0.5s;
 	text-align: center;
@@ -783,9 +783,11 @@ background: #f4f1f1;
 	overflow: hidden;
 }
 
-.luxury_hotels_inner {
+.hawaii_inner {
 	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     padding: 40px;
 }
-
+.hawaii_section{
+    padding: 80px 0;
+}
 /* hawaii styling end */
