@@ -3,7 +3,7 @@
 :root {
     --primary-color: #4C787E;
     --secondary-color: #d8cbcb;
-    --main-color:#ffffff;
+    --main-color: #ffffff;
 }
 
 * {
@@ -61,9 +61,11 @@ h2 {
     padding-bottom: 20px;
     text-transform: capitalize;
 }
-h3{
+
+h3 {
     margin-top: 10px;
 }
+
 /* navbar styling  */
 
 .logo img {
@@ -210,6 +212,10 @@ nav.sticky {
     padding: 80px 0;
 }
 
+.best_top {
+    margin-bottom: 40px;
+}
+
 .best_casino p {
     text-align: center;
 }
@@ -297,6 +303,7 @@ nav.sticky {
     background: var(--main-color);
     margin-top: 20px;
 }
+
 .self_footer h4 {
     color: var(--main-color);
     margin-top: 0;
@@ -452,10 +459,12 @@ nav.sticky {
 .privacy-policy {
     padding: 40px 0;
 }
+
 .privacy-policy a {
     color: #000;
     font-weight: 700;
 }
+
 .privacy__section .banner__text h1 {
     color: var(--main-color);
     text-transform: uppercase;
@@ -507,10 +516,12 @@ nav.sticky {
 .terms_conditons {
     padding: 40px 0;
 }
+
 .terms_conditons a {
     color: #000;
     font-weight: 700;
 }
+
 .terms__section .banner__text h1 {
     color: var(--main-color);
     text-transform: uppercase;
@@ -530,9 +541,11 @@ nav.sticky {
     width: 80%;
     transform: translate(-50%, -50%);
 }
+
 .terms_conditons ul li {
     list-style-type: disc;
 }
+
 /* terms styling end */
 /* contact styling start */
 .contact_banner {
@@ -613,6 +626,7 @@ input.form-control.sub_btn:hover {
     height: 100%;
     z-index: 0;
 }
+
 /* QA styling end */
 /* below banner styling start */
 .below_banner {
@@ -694,10 +708,12 @@ input.form-control.sub_btn:hover {
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
 }
+
 .bottom_text {
     padding: 80px 0;
     background: #f4f1f1;
 }
+
 /* accordian styling end */
 /* culture styling start */
 .culture_inner img {
@@ -706,14 +722,17 @@ input.form-control.sub_btn:hover {
     object-fit: cover;
     margin: 20px 0;
 }
+
 .culture_inner img:hover {
     filter: brightness(0.5);
 }
+
 .culture_section {
-padding: 80px 0;
-text-align: center;
-background: #f4f1f1;
+    padding: 80px 0;
+    text-align: center;
+    background: #f4f1f1;
 }
+
 /* culture styling end */
 /* experience styling start */
 
@@ -776,20 +795,22 @@ background: #f4f1f1;
 /* hawaii styling start */
 
 .hawaii {
-	margin-bottom: 30px;
-	transition: all 0.5s;
-	text-align: center;
-	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-	overflow: hidden;
+    margin-bottom: 30px;
+    transition: all 0.5s;
+    text-align: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    overflow: hidden;
 }
 
 .hawaii_inner {
-	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
     padding: 40px;
 }
-.hawaii_section{
+
+.hawaii_section {
     padding: 80px 0;
 }
+
 /* hawaii styling end */
 /* austraila start */
 .austraila_section {
@@ -801,6 +822,7 @@ background: #f4f1f1;
     text-align: center;
     margin-bottom: 40px;
 }
+
 .austraila {
     text-align: center;
     border: 1px solid;
@@ -808,6 +830,7 @@ background: #f4f1f1;
     padding: 10px;
     height: 95%;
 }
+
 .austraila img {
     height: 300px;
     object-fit: cover;
