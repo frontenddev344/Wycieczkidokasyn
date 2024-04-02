@@ -287,17 +287,25 @@ nav.sticky {
     max-width: 250px;
 }
 
-
+.self_footer h4::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 80px;
+    background: var(--main-color);
+    margin-top: 20px;
+}
 .self_footer h4 {
-    color: var(main-color);
+    color: var(--main-color);
     margin-top: 0;
+    margin-bottom: 15px;
     font-weight: 700;
     text-transform: uppercase;
     font-size: 20px;
 }
 
 .self_footer p {
-    color: var(main-color);
+    color: var(--main-color);
     text-transform: uppercase;
 }
 
@@ -309,12 +317,12 @@ nav.sticky {
 
 .self_footer ul li {
     font-weight: 400;
-    color: var(--secondary-color);
+    color: var(--main-color);
     line-height: 28px;
 }
 
 .self_footer ul li a {
-    color: var(--font-color);
+    color: var(--main-color);
     -webkit-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     line-height: 28px;
@@ -393,9 +401,8 @@ nav.sticky {
 /*END SOCIAL PROFILE CSS*/
 .copyright {
     padding: 20px 0;
-    color: var(main-color);
+    color: var(--main-color);
     font-size: 15px;
-    border-top: 1px solid var(--main-color);
     text-align: center;
 }
 
