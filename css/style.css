@@ -773,3 +773,19 @@ background: #f4f1f1;
 }
 
 /* experience styling end */
+/* hawaii styling start */
+
+.luxhotel_card {
+	margin-bottom: 30px;
+	transition: all 0.5s;
+	text-align: center;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	overflow: hidden;
+}
+
+.luxury_hotels_inner {
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 40px;
+}
+
+/* hawaii styling end */
