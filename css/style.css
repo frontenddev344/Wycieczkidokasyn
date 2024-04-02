@@ -219,7 +219,10 @@ nav.sticky {
 .best_casino p {
     text-align: center;
 }
-
+.best_inner p {
+    text-align: left;
+    margin-bottom: 10px;
+}
 /* best casino styling end */
 /* insipration styling start */
 .inspiration_banner {
