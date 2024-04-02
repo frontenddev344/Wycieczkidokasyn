@@ -699,3 +699,15 @@ input.form-control.sub_btn:hover {
     background: #f4f1f1;
 }
 /* accordian styling end */
+/* culture styling start */
+.culture_inner img {
+    height: 600px;
+    object-fit: cover;
+    margin: 20px 0;
+}
+.culture_section {
+padding: 80px 0;
+text-align: center;
+background: #f4f1f1;
+}
+/* culture styling end */
