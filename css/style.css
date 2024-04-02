@@ -702,8 +702,12 @@ input.form-control.sub_btn:hover {
 /* culture styling start */
 .culture_inner img {
     height: 600px;
+    transition: all 0.5s;
     object-fit: cover;
     margin: 20px 0;
+}
+.culture_inner img:hover {
+    filter: brightness(0.5);
 }
 .culture_section {
 padding: 80px 0;
