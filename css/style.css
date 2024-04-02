@@ -537,9 +537,9 @@ nav.sticky {
 /* contact styling start */
 .contact_banner {
     height: 400px;
-    background-image: url(../img/aboutbanner.jpg);
+    background-image: url(../image/contactusbanner.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
     position: relative;
 }
@@ -562,6 +562,7 @@ nav.sticky {
     text-align: left;
     line-height: 30px;
     margin-bottom: 20px;
+    padding: 0;
 }
 
 input.form-control.sub_btn {
