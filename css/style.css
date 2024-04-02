@@ -617,6 +617,7 @@ input.form-control.sub_btn:hover {
 /* below banner styling start */
 .below_banner {
     padding: 80px 0px;
+    background: #f4f1f1;
 }
 
 .below_text {
@@ -693,5 +694,8 @@ input.form-control.sub_btn:hover {
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
 }
-
+.bottom_text {
+    padding: 80px 0;
+    background: #f4f1f1;
+}
 /* accordian styling end */
