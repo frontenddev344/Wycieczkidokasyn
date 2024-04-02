@@ -347,7 +347,9 @@ nav.sticky {
 
 /*START SOCIAL PROFILE CSS*/
 .social_profile {
-    margin-top: 30px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .social_profile ul {
@@ -386,9 +388,9 @@ nav.sticky {
 
 /*END SOCIAL PROFILE CSS*/
 .copyright {
-    margin-top: 70px;
+    margin-top: 20px;
     padding-top: 40px;
-    color: var(--main-color);
+    color: #fff;
     font-size: 15px;
     border-top: 1px solid var(--main-color);
     text-align: center;
