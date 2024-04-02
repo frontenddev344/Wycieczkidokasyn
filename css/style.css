@@ -740,7 +740,6 @@ background: #f4f1f1;
     height: 100%;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .exp button {
@@ -757,10 +756,10 @@ background: #f4f1f1;
     padding-top: 16px;
 }
 
-.exp_inner img {
+/* .exp_inner img {
     height: 300px;
     object-fit: cover;
-}
+} */
 
 .exp_inner p {
     text-align: center;
