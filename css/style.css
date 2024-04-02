@@ -804,4 +804,8 @@ background: #f4f1f1;
 .austraila {
     text-align: center;
 }
+.austraila img {
+    height: 300px;
+    object-fit: cover;
+}
 /* austraila end */
