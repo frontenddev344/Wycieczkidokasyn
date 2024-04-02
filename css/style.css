@@ -2,7 +2,7 @@
 
 :root {
     --primary-color: #4C787E;
-    --secondary-color: #ededed;
+    --secondary-color: #d8cbcb;
 }
 
 * {
@@ -322,7 +322,7 @@ nav.sticky {
 }
 
 .self_footer ul li a:hover {
-    color: var(--main-color);
+    color: var(--secondary-color);
 }
 
 .self_footer_address ul li {
