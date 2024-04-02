@@ -102,6 +102,9 @@
     .bottom_text {
         padding: 40px 0;
     }
+    .best_casino {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width: 575px) {
