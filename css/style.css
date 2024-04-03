@@ -216,7 +216,7 @@ nav.sticky {
 }
 
 .best_aside {
-    border: 1px solid var(--primary-color);
+    box-shadow: 2px 4px 6px #00000042;
     margin-bottom: 30px;
 }
 
