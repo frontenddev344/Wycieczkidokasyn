@@ -593,6 +593,7 @@ nav.sticky {
 
 .terms_conditons ul li {
     list-style-type: disc;
+    margin-left: 15px;
 }
 
 /* terms styling end */
