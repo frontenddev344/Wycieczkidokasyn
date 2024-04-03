@@ -125,13 +125,13 @@ nav {
     width: 100%;
     transition: 0.3s;
 }
- 
+
 nav.sticky {
     background: var(--primary-color);
     animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
     padding: 10px 0;
     position: fixed;
-}  
+}
 
 /* navbar stylng end */
 /* casino banner styling start */
@@ -214,17 +214,35 @@ nav.sticky {
 .best_casino {
     padding: 80px 0;
 }
+
+.best_aside {
+    border: 1px solid var(--primary-color);
+}
+
+.best_inner img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.best_img img {
+    height: 250px;
+    object-fit: cover;
+}
+
 .best_text h6 {
     margin-top: 10px;
 }
+
 .best_text h4 {
     color: var(--primary-color);
 }
+
 .best_text {
     text-align: center;
     padding: 10px;
     box-shadow: 2px 4px 6px #00000042;
 }
+
 .best_top {
     margin-bottom: 40px;
 }
@@ -232,17 +250,21 @@ nav.sticky {
 .best_casino p {
     text-align: center;
 }
+
 .best_inner p {
     text-align: left;
     margin-bottom: 10px;
 }
+
 .best_inner {
     margin: 20px 0;
 }
-.best_inner  h2 {
+
+.best_inner h2 {
     text-align: left;
     padding: 0;
 }
+
 /* best casino styling end */
 /* insipration styling start */
 .inspiration_banner {
@@ -831,7 +853,7 @@ input.form-control.sub_btn:hover {
 }
 
 .hawaii_section {
-    padding:0;
+    padding: 0;
 }
 
 /* hawaii styling end */
