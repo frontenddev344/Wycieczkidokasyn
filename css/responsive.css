@@ -105,10 +105,14 @@
     .best_casino {
         padding: 40px 0;
     }
+    .exp {
+        height: auto;
+    }
 }
 
 @media screen and (max-width: 575px) {
     .banner_box h1 {
         font-size: 30px;
     }
+   
 }
