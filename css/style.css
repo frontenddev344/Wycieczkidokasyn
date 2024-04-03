@@ -218,6 +218,7 @@ nav.sticky {
 .best_aside {
     box-shadow: 2px 4px 6px #00000042;
     margin-bottom: 30px;
+    padding: 20px;
 }
 
 .best_inner img {
