@@ -217,7 +217,7 @@ nav.sticky {
 
 .best_aside {
     border: 1px solid var(--primary-color);
-    margin-bottom: 40px !important;
+    margin-bottom: 30px;
 }
 
 .best_inner img {
@@ -258,7 +258,9 @@ nav.sticky {
 }
 
 .best_inner {
-    margin: 20px 0;
+    box-shadow: inset -1px -1px 4px #000;
+    padding: 20px;
+    margin-bottom: 30px;
 }
 
 .best_inner h2 {
