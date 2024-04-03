@@ -726,7 +726,12 @@ input.form-control.sub_btn:hover {
     font-size: 16px;
 
 }
-
+.panel.panel-default {
+    background: #efe8e8;
+    margin-bottom: 20px;
+    box-shadow: 2px 3px 4px;
+}
+/* 
 .panel-default>.panel-heading a:after {
     content: "";
     position: relative;
@@ -744,19 +749,19 @@ input.form-control.sub_btn:hover {
 
 .panel-default>.panel-heading a[aria-expanded="true"] {
     background-color: var(--primary-color);
-}
+} */
 
-.panel-default>.panel-heading a[aria-expanded="true"]:after {
+/* .panel-default>.panel-heading a[aria-expanded="true"]:after {
     content: "\2212";
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
-}
-
+} */
+/* 
 .panel-default>.panel-heading a[aria-expanded="false"]:after {
     content: "\002b";
     -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
-}
+} */
 
 .bottom_text {
     padding: 80px 0;
