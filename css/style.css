@@ -719,6 +719,7 @@ input.form-control.sub_btn:hover {
     background: var(--primary-color);
     color: #fff;
     font-size: 20px;
+    pointer-events: none;
 }
 
 .panel-body {
