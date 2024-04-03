@@ -108,6 +108,9 @@
     .exp {
         height: auto;
     }
+    .QA_accordian {
+        padding: 40px 0;
+    }
 }
 
 @media screen and (max-width: 575px) {
