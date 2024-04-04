@@ -222,6 +222,10 @@ nav.sticky {
     padding: 20px;
 }
 
+.best_aside:hover {
+    transform: translateY(-0.125rem);
+}
+
 .best_inner img {
     height: 500px;
     object-fit: cover;
@@ -259,7 +263,7 @@ nav.sticky {
 }
 
 .best_inner {
-    box-shadow:0px 0 4px #00000061;
+    box-shadow: 0px 0 4px #00000061;
     padding: 20px;
     margin-bottom: 30px;
 }
@@ -728,11 +732,13 @@ input.form-control.sub_btn:hover {
     font-size: 16px;
 
 }
+
 .panel.panel-default {
     background: #f4f1f1;
     margin-bottom: 20px;
     box-shadow: 2px 3px 4px;
 }
+
 /* 
 .panel-default>.panel-heading a:after {
     content: "";
